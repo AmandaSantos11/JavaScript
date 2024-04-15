@@ -1,3 +1,5 @@
+console.log("Exercícios de Iteração em Array\n");
+
 //ex 1
 console.log("\nex 1");
 const names = ["Leonardo","Claudio","Fernando"];
